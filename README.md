@@ -5,11 +5,4 @@
 🔎 Enthusiast in AI and Machine Learning for health applications.  
 📚 Always learning and exploring new challenges in computing.  
 
-### 📊 GitHub Stats:
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lyssasrodrigues&theme=github_dark)
-
-### 🔥 Most Used Languages:
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=lyssasrodrigues&theme=github_dark)
-
-### 🏆 Profile Summary:
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyssasrodrigues&theme=github_dark)
+![Metrics](https://metrics.lecoq.io/lyssasrodrigues?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FFortaleza)
