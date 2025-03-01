@@ -6,10 +6,10 @@
 📚 Always learning and exploring new challenges in computing.  
 
 ### 📊 GitHub Stats:
-![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyssasrodrigues&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lyssasrodrigues&theme=github_dark)
 
-### 🔥 Top Languages:
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lyssasrodrigues&theme=radical)
+### 🔥 Most Used Languages:
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=lyssasrodrigues&theme=github_dark)
 
-### 🏆 GitHub Achievements:
-![Achievements](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lyssasrodrigues&theme=radical)
+### 🏆 Profile Summary:
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyssasrodrigues&theme=github_dark)
