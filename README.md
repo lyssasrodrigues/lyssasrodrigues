@@ -1,4 +1,4 @@
-# Hi, I'm Lyssa Rodrigues 👋
+# Hi, I'm Lyssa Rodrigues 
 
 I'm a Computer Engineering student at POLI-UPE, currently working as a Full Stack Developer and AI Researcher. Most of my work lives at the intersection of web development and intelligence systems, focused on building impactful technology for healthcare.
 
@@ -11,3 +11,5 @@ I'm a Computer Engineering student at POLI-UPE, currently working as a Full Stac
 - Building scalable and robust web solutions.
 
 📬 **How to reach me:** [LinkedIn](https://linkedin.com/in/lyssa-rodrigues)
+
+
